@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject12/.idea/31 july ml.iml" filepath="$PROJECT_DIR$/../PythonProject12/.idea/31 july ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject10.iml" filepath="$PROJECT_DIR$/.idea/PythonProject10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject14/.idea/PythonProject14.iml" filepath="$PROJECT_DIR$/../PythonProject14/.idea/PythonProject14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject9 (2)/.idea/PythonProject9 (2).iml" filepath="$PROJECT_DIR$/../PythonProject9 (2)/.idea/PythonProject9 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject9/.idea/RoadSafety.iml" filepath="$PROJECT_DIR$/../PythonProject9/.idea/RoadSafety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProject11/.idea/placementprediction.iml" filepath="$PROJECT_DIR$/../PythonProject11/.idea/placementprediction.iml" />
+    </modules>
+  </component>
+</project>
