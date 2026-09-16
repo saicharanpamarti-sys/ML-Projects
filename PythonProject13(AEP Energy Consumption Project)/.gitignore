@@ -1,7 +1,0 @@
-.idea/
-__pycache__/
-*.pyc
-catboost_info/
-.venv/
-.ipynb_checkpoints/
-*.log
